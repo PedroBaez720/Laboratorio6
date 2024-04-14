@@ -1,0 +1,28 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.img-fluid {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.btn {
+    margin-right: 10px;
+}
+
+.display-4 {
+    font-size: 2.5rem;
+}
+
+.lead {
+    font-size: 1.25rem;
+}
+
+body {
+    background-color: #e8f5fe; /* Azul suave */
+}
+
+
